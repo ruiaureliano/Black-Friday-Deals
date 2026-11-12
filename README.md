@@ -67,6 +67,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 ### 🤖 AI Tools & Automation
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
+| [**Sip**](https://sipapp.io/blackfriday/) | Native color picker for macOS that helps collect, organize, edit and share colors and palettes. | **50% OFF** — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 | Nov 27 – Dec 2, 2026 |
 | [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
