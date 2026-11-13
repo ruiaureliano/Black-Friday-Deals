@@ -72,7 +72,7 @@ Find the best **Black Friday** and **Cyber Monday 2026** deals across categories
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**Sip**](https://sipapp.io/blackfriday/) | Native color picker for macOS that helps collect, organize, edit and share colors and palettes. | **50% OFF** — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 | Nov 27 – Dec 2, 2026 |
+| [**Sip**](https://sipapp.io/blackfriday/) | Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes. | **50% OFF** — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 | Nov 27 – Dec 2, 2026 |
 | [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 2, 2025 |
 | [**RewriteBar**](https://rewritebar.com?ref=pimjo&utm_source=github-pimjo) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize, plus custom actions and templates. | 50% OFF Lifetime Deal (Coupon: `BF2026`) | Nov 2 – Dec 3, 2026 |
