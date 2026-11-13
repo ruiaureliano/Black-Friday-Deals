@@ -208,7 +208,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf) | Turn photos of your pets, friends and food into chat stickers on iPhone. | 43% off ($6.99 → $3.99) | No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30 |
-| 💸 | [Sip](https://sipapp.io/blackfriday/) | Modern color picker for Mac that brings ease to color organization and team collaboration. | 50% off | **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) from 2026-11-27 to 2026-11-29; **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) from 2026-11-30 to 2026-12-02 |
+| 💸 | [Sip](https://sipapp.io/blackfriday/) | Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes. | 50% off | **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) from 2026-11-27 to 2026-11-29; **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) from 2026-11-30 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
